@@ -1,4 +1,4 @@
-##DCAT-AP.de to CSV
+# DCAT-AP.de to CSV
 
 this little PHP script can consume [https://www.dcat-ap.de/](DCAT-AP.de) metadata from a [https://github.com/ckan/ckan](CKAN) open data portal and convert them to csv.
 
