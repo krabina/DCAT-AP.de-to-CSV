@@ -1,5 +1,6 @@
-subl# open-nrw api consumer
-description `todo`
+DCAT-AP.de to CSV
+
+this little PHP script can consume [https://www.dcat-ap.de/](DCAT-AP.de) metadata from a [https://github.com/ckan/ckan](CKAN) open data portal and convert them to csv.
 
 ## requirements
 1. php >= 5.6
@@ -31,3 +32,9 @@ Main package information is written to
 Group and tag information is available in
 * `output/groups.csv`
 * `output/tags.csv`
+
+### limitations
+Currently, it is only possible to comsume data from [https://open.nrw/](Open.NRW) as the link to the CKAN API is hardoced. 
+
+### acknowledgement
+This work was funded by [https://www.bertelsmann-stiftung.de](Bertelsmann Stiftung). The code was written by [http://www.interactiv.es/] (Interactives).
