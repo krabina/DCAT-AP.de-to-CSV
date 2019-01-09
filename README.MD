@@ -34,7 +34,7 @@ Group and tag information is available in
 * `output/tags.csv`
 
 ### limitations
-Currently, it is only possible to comsume data from [Open.NRW](https://open.nrw/) as the link to the CKAN API is hardoced. 
+Currently, it is only possible to comsume data from [Open.NRW](https://open.nrw/) as the link to the CKAN API is hardcoded. 
 
 ### acknowledgement
 This work was funded by [Bertelsmann Stiftung](https://www.bertelsmann-stiftung.de). The code was written by [Interactives] (http://www.interactiv.es/).
