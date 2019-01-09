@@ -1,0 +1,11 @@
+{
+	"require": {
+		"symfony/console": "^2.7",
+		"guzzlehttp/guzzle": "~6.3",
+	    "monolog/monolog": "~1.23",
+	  	"league/csv": "~9.1"
+	},
+	"autoload": {
+		"psr-0": {"Ives": "src/"}
+	}
+}
